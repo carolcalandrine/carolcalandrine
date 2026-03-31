@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👩🏻‍💻 Carol Calandrine
 
-<!--
-**carolcalandrine/carolcalandrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Caroline da Costa Calandrine, tenho 26 anos e sou natural de Belém do Pará. Sou formada em Química Industrial na UFPA. E atualmente quero integrar meus conhecimentos de exatas com análise de dados. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Ferramentas que utilizo
+
+<img 
+  src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30">
+<img 
+  width="30"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="30">
+<img
+  width="30"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
