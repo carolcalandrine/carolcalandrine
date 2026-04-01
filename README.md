@@ -1,8 +1,11 @@
 ## 👩🏻‍💻 Carol Calandrine
 
-Me chamo Caroline da Costa Calandrine, tenho 26 anos e sou natural de Belém do Pará. Sou formada em Química Industrial na UFPA. E atualmente quero integrar meus conhecimentos de exatas com análise de dados. 
+Me chamo Caroline Calandrine, formada em Química Industrial pela UFPA. Tenho interesse na área de Análise de Dados, aplicando conhecimentos de exatas na análise, interpretação e visualização de dados.
+
+Aqui você encontrará projetos voltados para análise de dados, utilizando ferramentas como Excel, SQL e Power BI, com foco na geração de insights e apoio à tomada de decisão.
 
 ---
+
 
 ### 🤖 Ferramentas que utilizo
 
