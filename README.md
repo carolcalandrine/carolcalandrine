@@ -4,7 +4,7 @@ Sou Caroline Calandrine, formada em Química Industrial pela UFPA. Tenho interes
 ### 🔍 O que você encontrará aqui
 - Projetos voltados para análise, interpretação e visualização de dados
 
-- Utilização de ferramentas como Excel, SQL e Power BI
+- Utilização de ferramentas como Excel, SQL, Power BI e Python
 
 - Foco na geração de insights e apoio à tomada de decisão
 
